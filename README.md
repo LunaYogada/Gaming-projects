@@ -12,5 +12,5 @@ https://github.com/LunaYogada/Gaming-projects/blob/master/Level%20difficulty%20i
 Cookie cat: 
 https://github.com/LunaYogada/Gaming-projects/blob/master/Mobile%20Games%20Ab-testing%20with%20Cookie%20Cats/notebook.ipynb
 
-
+![cookie cat](https://github.com/LunaYogada/Gaming-projects/blob/master/Mobile%20Games%20Ab-testing%20with%20Cookie%20Cats/img/cookie_cats_title.jpeg)
 
